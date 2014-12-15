@@ -1,3 +1,8 @@
+# My simple attempt at TDD on react
+based on https://reactjsnews.com/building-a-test-suite-in-react-js/
+
+---
+
 # React Webpack Boilerplate
 
 This is an as simple as possible boilerplate for getting up and running with React via Webpack. The purpose of this is for quickly prototyping with all the goodness of the NPM system at your disposal.

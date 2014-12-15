@@ -1,14 +1,4 @@
-var React = require('react'),
-    Component = require('./component');
+var React = require('react'),  
+    App = require('./app');
 
-var App = React.createClass({
-
-  render: function() {
-    return (
-      <Component />
-    );
-  }
-
-});
-
-React.render(<App />, document.body);
+React.render(<App />, document.body);  
